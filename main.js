@@ -125,10 +125,10 @@ function subtractFromAll(event) {
     // Make sure page doesn't reload on button press.
     event.preventDefault();
     
-    // Grab value to add.
+    // Grab value to subtract.
     let numberToSubtract = document.querySelector('').value;
     
-    // Add value to everything on the list.
+    // Subtract value from everything on the list.
   
 
     // Update our html.
@@ -139,10 +139,10 @@ function multiplyByAll(event) {
     // Make sure page doesn't reload on button press.
     event.preventDefault();
     
-    // Grab value to add.
+    // Grab value to multiply.
     let numberToMultiply = document.querySelector('').value;
     
-    // Add value to everything on the list.
+    // Multiply value by everything on the list.
     
     
     // Update our html.
